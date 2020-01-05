@@ -1,0 +1,1 @@
+<header class="header animated fadeIn <?php echo esc_html(get_option('side_options_headerbg'),'bgnormal');?> <?php echo get_option( 'side_options_headercenter' ); ?>" role="banner">
